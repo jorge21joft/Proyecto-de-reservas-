@@ -1,0 +1,99 @@
+﻿@model Hotel_reservas.Models.Reservas
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Reservas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Empleado.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Empleado.nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Habitaciones.tipo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Habitaciones.tipo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Huesped.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Huesped.nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipo_pago.tipo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tipo_pago.tipo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Usuario.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Usuario.nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.numero_habitaciones)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.numero_habitaciones)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fecha_entrada)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fecha_entrada)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fecha_salida)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fecha_salida)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dias)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dias)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.total)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.total)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id_reservas }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

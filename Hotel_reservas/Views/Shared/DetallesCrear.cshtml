@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Hotel_reservas.Models.Reservas>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>
+                huesped
+            </th>
+            <th>
+                tipo de habitacion
+            </th>
+            <th>
+                numero de habitaciones
+            </th>
+            <th>
+                fecha entrada
+            </th>
+            <th>
+                fecha salida
+            </th>
+            <th>
+                total
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    @if (Model != null)
+    {
+
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Huesped.nombre</td>
+                <td>@item.Habitaciones.tipo</td>
+                <td>@item.numero_habitaciones</td>
+                <td>@item.fecha_entrada</td>
+                <td>@item.fecha_salida</td>
+                <td>@item.total</td>
+            </tr>
+        }
+    }
+</table>

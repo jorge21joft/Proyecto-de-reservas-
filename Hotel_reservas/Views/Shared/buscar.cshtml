@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Hotel_reservas.Models.Huesped>
+
+<table class="table table-bordered table-hover" id="tabla">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Tipo_huesped.tipo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.direccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dui)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.telefono)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.correo)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tipo_huesped.tipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.direccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dui)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.telefono)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.correo)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.id_huesped }) |
+                @Html.ActionLink("Details", "Details", new { id = item.id_huesped }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.id_huesped })
+            </td>
+        </tr>
+    }
+
+</table>

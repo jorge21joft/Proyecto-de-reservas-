@@ -1,0 +1,108 @@
+﻿@model IEnumerable<Hotel_reservas.Models.Huesped>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<script>
+    // este es el script con el que hago la busqueda asincrona en la tabla de huesped
+
+    $(document).ready(function () {
+        $("#texto").on("keyup", function () {
+            var valor = $(this).val().toLocaleLowerCase();
+            var filtro = $("#filtro").val();
+            $.ajax({
+                data: { valor: valor, filtro: filtro },
+                url: "/Huespeds/buscar",
+                type: "post",
+                success: recibir
+
+            });
+            function recibir(data) {
+                var resultado = $("#tabla");
+                resultado.html(data);
+            }
+
+
+        })
+    })
+
+</script>
+
+<!--el campo de la busqueda-->
+
+<div class="form-group">
+    <div class="form-inline">
+        <span class="text-info">criterio: </span>
+        <select name="filtro" id="filtro" class="form-control">
+            <option>Nombre</option>
+            <option>Tipo de huesped</option>
+
+        </select>
+
+        <input type="text" id="texto" name="busqueda" placeholder="ingrese la busqueda" class="form-control" />
+    </div>
+</div>
+
+<br />
+
+<table class="table table-bordered table-hover" id="tabla">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Tipo_huesped.tipo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.direccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dui)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.telefono)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.correo)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tipo_huesped.tipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.direccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dui)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.telefono)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.correo)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.id_huesped }) |
+                @Html.ActionLink("Details", "Details", new { id = item.id_huesped }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.id_huesped })
+            </td>
+        </tr>
+    }
+
+</table>

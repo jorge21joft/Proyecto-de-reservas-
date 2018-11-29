@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Hotel_reservas.Models.Promociones>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.promocion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.descuento)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.promocion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.descuento)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id_promocion }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id_promocion }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id_promocion })
+        </td>
+    </tr>
+}
+
+</table>

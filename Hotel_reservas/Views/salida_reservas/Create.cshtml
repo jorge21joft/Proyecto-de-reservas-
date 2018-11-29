@@ -1,0 +1,208 @@
+﻿@model Hotel_reservas.Models.salida_reservas
+@using Hotel_reservas.Models;
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>salida_reservas</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.observaciones, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.observaciones, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.observaciones, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.id_reserva, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.id_reserva, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.id_reserva, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+
+    <hr />
+    <h3 class="text-center">Detalles</h3>
+    <hr />
+
+    <div class="row">
+        <div class="col-xs-offset-1 col-xs-4">
+            <div class="form-inline">
+                <input type="text" id="reservas" style="width:85%;" class="form-control" placeholder="Selecicone la reserva" disabled />
+                <button type="button" class="btn btn-default glyphicon glyphicon-search" data-toggle="modal" data-target="#myModal"></button>
+            </div>
+        </div>
+
+        <div class="col-xs-4">
+            <button type="button" id="AgregarReserva" class="btn btn-success glyphicon glyphicon-plus">Agregar </button>
+        </div>
+
+    </div>
+
+    @{
+        IEnumerable<Reservas> SR = new List<Reservas>();
+        IEnumerable<Huesped> Huesped = new List<Huesped>();
+
+        SR = ViewBag.Reservas;
+
+    }
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Reservas</h4>
+                </div>
+                <div class="modal-body">
+
+                    <table class="table table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>
+                                    huesped
+                                </th>
+                                <th>
+                                    Tipo de  Habitacion
+                                </th>
+                                <th>
+                                    numero habitaciones
+                                </th>
+                                <th>
+                                    fecha entrada
+                                </th>
+                                <th>
+                                    fecha salida
+                                </th>
+                                <th>
+                                    total
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        @foreach (var item in SR)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Huesped.nombre)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Habitaciones.tipo)
+
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.numero_habitaciones)
+
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.fecha_salida)
+                                </td>
+
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.fecha_entrada)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.total)
+                                </td>
+                                <td>
+                                    <button onclick="AddReserva(@item.id_reservas,@item.numero_habitaciones,'@item.fecha_entrada', '@item.fecha_salida', '@item.Huesped.nombre', @item.id_habitacion, @item.total);" id="agregarReserva" type="button" class="btn btn-primary" data-dismiss="modal">Agregar</button>
+                                </td>
+                            </tr>
+                        }
+
+                    </table>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br />
+
+    <div id="detalles">
+        @{Html.RenderPartial("DetallesCrear");}
+    </div>
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Create" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<script>
+    $(document).ready(iniciar);
+
+    var detalles = { id: 0, numero_habitaciones: '', fecha_entrada: '', fecha_salida: '', huesped: '', habitacion: 0, total: 0 }
+
+    function iniciar() {
+        $("#AgregarReserva").click(agregarReserva);
+    }
+
+    function agregarReserva() {
+        alert("se ejecuto");
+        //peticion ajax
+        $.ajax({
+            method: "post",
+            url: "/salida_reservas/DetallesCrear",
+            data: {
+                id_reservas: detalles.id, numero_habitaciones: detalles.numero_habitaciones, fecha_entrada: detalles.fecha_entrada,
+                fecha_salida: detalles.fecha_salida, nombre: detalles.huesped, id_habitacion: detalles.habitacion, total: detalles.total
+            },
+            success: function (data) {
+                $("#detalles").html(data);
+                $("#reservas").val("");
+            },
+            error: function () {
+                alert("ERROR EN LA PETICION");
+            }
+        });
+    }
+    function AddReserva(id_reservas, numero_habitaciones, fecha_entrada, fecha_salida, nombre, id_habitacion, total) {
+        alert("bien");
+        detalles.id = id_reservas;
+        detalles.numero_habitaciones = numero_habitaciones;
+        detalles.fecha_entrada = fecha_entrada;
+        detalles.fecha_salida = fecha_salida;
+        detalles.Huesped = nombre;
+        detalles.habitacion = id_habitacion;
+        detalles.total = total;
+
+        $("#reservas").val(nombre);
+    }
+
+</script>
+
+
+
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

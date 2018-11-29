@@ -1,0 +1,85 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-image: url(https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2018/06/29/0959/Park-Hyatt-Mallorca-P379-Pool-Area.jpg/Park-Hyatt-Mallorca-P379-Pool-Area.4x3.jpg);
+    background-repeat: no-repeat;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+#d {
+    background-color: darkgray;
+    background-image: url(https://www.shareicon.net/download/2016/08/03/806203_people_512x512.png);
+    background-repeat: no-repeat;
+}
+
+#d1 {
+    background-color: darkslategray;
+}
+
+.navbar-inverse {
+    background-color: black;
+    border-color: #080808;
+}
+
+    .navbar-inverse .navbar-brand {
+        color: black;
+    }
+
+#td {
+    border-color: black;
+    border-style: ridge;
+}
+
+.dropdown-menu {
+}
+
+#j {
+    margin-left: 75px;
+    margin-right: 5%;
+    margin-top: 10px;
+    background-color: darkslategray
+}
+table {
+    background-color: yellow;
+}
+th {
+    font-size: 13px;
+    font-weight: normal;
+    padding: 8px;
+    background: #b9c9fe;
+    border-top: 4px solid #aabcfe;
+    border-bottom: 1px solid #fff;
+    color: black;
+}
+td {
+    padding: 8px;
+    background: #e8edff;
+    border-bottom: 1px solid #fff;
+    color: black ;
+    border-top: 1px solid transparent;
+}
+
+tr:hover td {
+    background: #d0dafd;
+    color: #339;
+}
+

@@ -1,0 +1,49 @@
+﻿@model Hotel_reservas.Models.salida_reservas
+@using Hotel_reservas.Models;
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<h2>Details</h2>
+
+<div>
+    <h4>salida_reservas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.observaciones)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.observaciones)
+        </dd>
+
+       
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.id_reserva)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.id_reserva)
+        </dd>
+
+    </dl>
+</div>
+<hr />
+
+@{
+    IEnumerable<Reservas> rer = new List<Reservas>();
+    Html.RenderAction("DetallesCrear", Model.Reservas);
+}
+
+
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id_salida_reservas }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

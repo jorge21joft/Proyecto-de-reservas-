@@ -1,0 +1,208 @@
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\ApplicationInsights.config
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Hotel_reservas.dll.config
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Hotel_reservas.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Hotel_reservas.pdb
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Threading.Thread.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\EntityFramework.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\WebGrease.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\EntityFramework.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\obj\Debug\Hotel_reservas.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\obj\Debug\Hotel_reservas.csproj.CopyComplete
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\obj\Debug\Hotel_reservas.dll
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\obj\Debug\Hotel_reservas.pdb
+C:\Users\HP\Desktop\HOTEL-PROYECTO\CARPETA DE SEGURIDAD\Hotel_reservas\Hotel_reservas\obj\Debug\Hotel_reservas.csprojAssemblyReference.cache
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\ApplicationInsights.config
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Hotel_reservas.dll.config
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Hotel_reservas.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Hotel_reservas.pdb
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\csc.exe
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\csc.exe.config
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\csc.rsp
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\csi.exe
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\csi.exe.config
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\csi.rsp
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.AppContext.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Collections.Immutable.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Console.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Diagnostics.Process.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.IO.Compression.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.IO.FileSystem.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.IO.Pipes.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Reflection.Metadata.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Security.AccessControl.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Security.Claims.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Security.Principal.Windows.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Threading.Thread.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.ValueTuple.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Xml.XPath.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\vbc.exe
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\vbc.exe.config
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\vbc.rsp
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\VBCSCompiler.exe
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\roslyn\VBCSCompiler.exe.config
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Antlr3.Runtime.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\EntityFramework.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\EntityFramework.SqlServer.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.Agent.Intercept.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.DependencyCollector.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.Web.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.WindowsServer.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.ApplicationInsights.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.Web.Infrastructure.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Newtonsoft.Json.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Diagnostics.DiagnosticSource.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Web.Helpers.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Web.Mvc.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Web.Optimization.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Web.Razor.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Web.WebPages.Deployment.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Web.WebPages.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Web.WebPages.Razor.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\WebGrease.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\EntityFramework.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\EntityFramework.SqlServer.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Web.Helpers.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Web.Mvc.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Web.Optimization.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Web.Razor.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Web.WebPages.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Web.WebPages.Deployment.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Web.WebPages.Razor.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Newtonsoft.Json.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Antlr3.Runtime.pdb
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\System.Diagnostics.DiagnosticSource.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.DependencyCollector.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.WindowsServer.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.AI.Web.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\es\System.Web.Helpers.resources.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\es\System.Web.Mvc.resources.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\es\System.Web.Optimization.resources.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\es\System.Web.Razor.resources.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\es\System.Web.WebPages.resources.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\obj\Debug\Hotel_reservas.csprojAssemblyReference.cache
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\obj\Debug\Hotel_reservas.csproj.CoreCompileInputs.cache
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\obj\Debug\Hotel_reservas.csproj.CopyComplete
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\obj\Debug\Hotel_reservas.dll
+F:\SEGUNDO PROYECTO\Hotel_reservas\Hotel_reservas\obj\Debug\Hotel_reservas.pdb
